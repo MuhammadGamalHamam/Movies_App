@@ -1,5 +1,5 @@
 # Movies_App
- 
+
 A new Flutter application.
  
 ## Getting Started
